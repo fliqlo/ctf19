@@ -11,7 +11,7 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
     https://www.gps-coordinates.net/
 
 **Hint:** \
-It's a place
+coordinates
 
 # Sumbit the flag here:
 https://forms.gle/pvTh5tWbCqEGHfow8
